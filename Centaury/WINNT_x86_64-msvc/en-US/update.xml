@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+    <update type="minor" displayVersion="2021.04.05" appVersion="52.9.2021.04.05" platformVersion="52.9.2021.04.05" buildID="20210405215226">
+        <patch type="complete" URL="https://raw.githubusercontent.com/Feodor2/Updserv/master/Centaury/WINNT_x86_64-msvc/en-US/centaury.win64.complete.mar" hashFunction="sha512" hashValue="81fddada7595d3d4be3d7a2b1843cf1f66b229fd9b5b70ca29c77da27bfb3caf44846cddd2ff563636adea443a7a44e5f0cfdc9f066b039004b8912d17635f82" size="57694557"/>
+    </update>
+</updates>

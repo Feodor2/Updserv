@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+    <update type="minor" displayVersion="29.2.1" appVersion="29.2.1" platformVersion="29.2.1" buildID="20210609080956">
+        <patch type="complete" URL="https://raw.githubusercontent.com/Feodor2/Updserv/master/Mypal/WINNT_x86_64-msvc/en-US/mypal.win64.complete.mar" hashFunction="sha512" hashValue="50969fd22884f612b5b912daf476e1b0aa8644aed9fbe9b23d954d6b4d40741a2ab160269eda46a4260be718645cf3b4a2468e37c79b5fdccab3eb5144a3dd3d" size="49641115"/>
+    </update>
+</updates>

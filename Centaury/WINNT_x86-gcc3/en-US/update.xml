@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+    <update type="minor" displayVersion="2021.04.02" appVersion="52.9.2021.04.02" platformVersion="52.9.2021.04.02" buildID="20210404150051">
+        <patch type="complete" URL="https://raw.githubusercontent.com/Feodor2/Updserv/master/Centaury/WINNT_x86-gcc3/en-US/centaury.mingw32.complete.mar" hashFunction="sha512" hashValue="765989d96435f2a209c7a2336f3cc6acc6b59d2fd212e0c7b335bc3074c4b72b442eddb30f0af6690ee277fe47ebb1f25b43ab7d7c8e7d0675afa422eab36db6" size="58548021"/>
+    </update>
+</updates>
